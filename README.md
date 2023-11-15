@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cloud-native-monitoring-app
 =======
 # Steps:
@@ -65,7 +64,4 @@ docker run -p 5000:5000 <image_name>
 This will start the Flask server in a Docker container on localhost:5000. Navigate to http://localhost:5000/ on your browser to access the application.
 >>>>>>> ba1be1f (Update README)
 =======
-# Cloud-native-monitoring-app
->>>>>>> a91597aca11c951660865c8e1f6a30ceed8ceb9e
-
 # Creating Kubernetes Deployment
